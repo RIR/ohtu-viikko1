@@ -3,3 +3,5 @@ Tänne jotain kirjoitusta. Tiedostoa on muutettu.
 Muutettu kolmanteen kertaan. Tällä kertaa commitointi.
 
 muutetaan tätäkin gitt add -p:tä varten
+
+Muutettu Travisia varten.
