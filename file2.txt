@@ -1,1 +1,5 @@
 Tätäkin tiedostoa on muutettu.
+
+kokeillaan git add -p:tä
+
+muutetaan
