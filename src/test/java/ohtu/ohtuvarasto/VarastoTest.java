@@ -135,7 +135,7 @@ public class VarastoTest {
     
     @Test
     public void stringToStringPalauttaaMerkkiJonoesityksenOikeillaArvoilla() {
-        String varastoString = "saldo = " + 0.5 + ", vielä tilaa " + 10.0;
+        String varastoString = "saldo = " + 0.0 + ", vielä tilaa " + 10.0;
         assertEquals(varastoString, varasto.toString());
     }
 }
