@@ -1,0 +1,5 @@
+# Juurihakemistossa olevat tiedostot, joiden pääte on tmp
+/*.tmp
+
+# Hakemisto, jonka nimi on build
+build/
