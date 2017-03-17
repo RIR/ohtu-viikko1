@@ -6,3 +6,5 @@ muutetaan tätäkin gitt add -p:tä varten
 
 Muutettu Travisia varten.
 Vielä.
+
+ReadMe muokattu tulee virhe jos pushaa täältä, eka pullattava.
