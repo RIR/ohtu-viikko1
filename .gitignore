@@ -3,3 +3,4 @@
 
 # Hakemisto, jonka nimi on build
 build/
+/.nb-gradle/
